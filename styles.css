@@ -1,0 +1,21 @@
+body {
+  background-image: url("./picturess/Screen Shot 2021-02-11 at 5.50.30 PM.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #968b8b7e;
+}
+p {
+  color: black;
+  text-align: center;
+
+  font-family: Fantasy;
+  font-size: 80px;
+}
+
+#button1 {
+  margin-left: 92%;
+  margin-top: 1%;
+  width: 80px;
+  background-color: #1f8c81;
+  font-family: Fantasy;
+}
